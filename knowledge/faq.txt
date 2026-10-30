@@ -1,0 +1,19 @@
+Company: BrightMart Online Store
+
+Q: What are your delivery times?
+A: Standard delivery takes 3 to 5 working days. Express delivery takes 1 to 2 working days.
+
+Q: How do I return a product?
+A: You can return any product within 14 days of delivery. The item must be unused and in its original packaging. Go to My Orders and click Return Item.
+
+Q: How long does a refund take?
+A: Refunds are processed within 5 to 7 working days after we receive the returned item.
+
+Q: What payment methods do you accept?
+A: We accept credit cards, debit cards, UPI and net banking.
+
+Q: How can I track my order?
+A: Open My Orders and click Track Order. You will also receive a tracking link by email and SMS.
+
+Q: How do I contact customer support?
+A: Email support@brightmart.example or call 1800-000-000, Monday to Saturday, 9 AM to 6 PM.

@@ -1,0 +1,12 @@
+# Secrets - never upload these
+.env
+credentials.json
+
+# Virtual environment and Python cache
+venv/
+__pycache__/
+*.pyc
+
+# CrewAI local storage
+db/
+.crewai/
